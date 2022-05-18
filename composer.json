@@ -1,0 +1,15 @@
+{
+    "name": "ninh/calculator",
+    "autoload": {
+        "psr-4": {
+            "Ninh\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nguyenquangninh1999",
+            "email": "nguyenquangninh456@gmail.com"
+        }
+    ],
+    "require": {}
+}
